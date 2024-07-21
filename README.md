@@ -1,2 +1,2 @@
 # Ping-pong
-a web app Imitation of a ping pong game using python and javascript, HTML, CSS and some python.
+a web app Imitation of a ping pong game using javascript, HTML, CSS and some python.
